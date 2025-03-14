@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Eduardo Oliveira dos Santos, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na ETEC de Poá, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando o Bacharelado em Ciência e Tecnologia na UFABC. Desenvolvo projetos com o intuito de me especializar em Java e trabalhar na área. Estou sempre aberto a oportunidades e conexões no meu LinkedIn: "[Eduardo Oliveira](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1031944)".
+Me chamo Eduardo Oliveira dos Santos, tenho 17 anos e sou de São Paulo. Concluí o ensino médio na ETEC de Poá, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando o Bacharelado em Ciência e Tecnologia na UFABC. Desenvolvo projetos com o intuito de me especializar em Java e trabalhar na área. Estou sempre aberto a oportunidades e conexões no meu LinkedIn: "[Eduardo Oliveira](www.linkedin.com/in/eduardo-oliveira-52b714339)".
 
 ---
 
